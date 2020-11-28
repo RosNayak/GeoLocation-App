@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoLocation App</string>
+    <string name="maps_api_key">AIzaSyDVcgwoOWes_YuRRmDS-kwzOPZ3AvhOl6Q</string>
+</resources>
